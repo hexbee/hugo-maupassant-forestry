@@ -1,5 +1,4 @@
-# baseURL = "https://127.0.0.1:1313"
-# baseURL = "https://hexbee-blog.netlify.app"
+baseURL = "https://hexbee-blog.netlify.app"
 languageCode = "zh-CN"
 title = "Hexbee的博客"
 theme = "maupassant"
