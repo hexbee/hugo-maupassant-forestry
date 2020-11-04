@@ -13,21 +13,6 @@ name = "Hexbee"
 [markup.highlight]
 lineNos = true
 style = "github"
-[[menu.main]]
-identifier = "about"
-name = "关于"
-url = "/about/"
-weight = 3
-[[menu.main]]
-identifier = "archives"
-name = "归档"
-url = "/archives/"
-weight = 2
-[[menu.main]]
-identifier = "tools"
-name = "工具"
-url = "/tools/"
-weight = 1
 [params]
 author = "Hexbee"
 beian = "XXXXXXX号"
