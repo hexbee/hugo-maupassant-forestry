@@ -1,7 +1,10 @@
 ---
-title: "Archives"
-date: 2020-11-03T10:21:29+08:00
+title: Archives
+date: 2020-11-03T10:21:29.000+08:00
 description: 文章归档
-type: archives
-draft: false
+menu:
+  main:
+    name: 归档
+    weight: 4
+
 ---
