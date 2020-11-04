@@ -40,6 +40,7 @@ keywords = "Golang,Python,C++,Rust,Shell,Git"
 localSearch = true
 subtitle = "专注于IT互联网，包括但不限于Python/Go/C++/Rust/数据可视化等"
 toc = true
+fancybox = true
 [params.cc]
 link = "https://creativecommons.org/licenses/by-nc-nd/4.0/"
 name = "知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议"
