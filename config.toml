@@ -47,7 +47,7 @@ name = "知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协�
 [params.utteranc]
 enable = true
 issueTerm = "pathname"
-repo = "https://github.com/hexbee/hugo-maupassant-forestry"
+repo = "hexbee/hugo-maupassant-forestry"
 theme = "github-light"
 [[params.links]]
 name = "飞雪无情的博客"
