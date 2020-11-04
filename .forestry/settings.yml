@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/search
+  label: search
+  create: all
+  match: "**/*"
+- type: directory
   path: content/post
   label: Post
   create: all
@@ -19,9 +24,6 @@ sections:
   label: Archives
   create: all
   match: "**/*"
-- type: document
-  path: content/search/**/*
-  label: search
 - type: document
   path: config.toml
   label: Configuration
