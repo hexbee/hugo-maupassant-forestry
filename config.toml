@@ -1,6 +1,6 @@
 baseURL = "https://hexbee-blog.netlify.app"
 disablePathToLower = true
-disqusShortname = "yourdiscussshortname"
+disqusShortname = ""
 googleAnalytics = ""
 hasCJKLanguage = true
 languageCode = "zh-CN"
